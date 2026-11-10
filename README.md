@@ -269,7 +269,13 @@ This project is licensed under the terms of the [MIT License](LICENSE).
 +------------------------------------------------------------------------------------+
 ```
 
-*(Visual UI screenshots and system workflow previews will be linked here from the `/screenshots` folder).*
+![документація API](screenshots/03_api_docs.png)
+
+![підсумок тестів](screenshots/01_tests.png)
+
+![довідка CLI](screenshots/04_cli_1.png)
+
+Усі скріншоти (5): [screenshots/](screenshots/README.md)
 
 
 ---
